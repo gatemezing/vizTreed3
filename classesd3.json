@@ -1,0 +1,635 @@
+{
+    "children": [
+        {
+            "name": "abbaye", 
+            "size": "584", 
+            "uri": "http://dbpedia.org/ontology/Abbey"
+        }, 
+        {
+            "name": "activit\u00e9", 
+            "size": "654", 
+            "uri": "http://dbpedia.org/ontology/Activity"
+        }, 
+        {
+            "name": "acteur", 
+            "size": "15501", 
+            "uri": "http://dbpedia.org/ontology/Actor"
+        }, 
+        {
+            "name": "r\u00e9gion administrative", 
+            "size": "33", 
+            "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+        }, 
+        {
+            "name": "acteur porno/acteur adulte", 
+            "size": "847", 
+            "uri": "http://dbpedia.org/ontology/AdultActor"
+        }, 
+        {
+            "name": "agent", 
+            "size": "229920", 
+            "uri": "http://dbpedia.org/ontology/Agent"
+        }, 
+        {
+            "name": "a\u00e9roport", 
+            "size": "1733", 
+            "uri": "http://dbpedia.org/ontology/Airport"
+        }, 
+        {
+            "name": "album", 
+            "size": "27600", 
+            "uri": "http://dbpedia.org/ontology/Album"
+        }, 
+        {
+            "name": "joueur de football am\u00e9ricain", 
+            "size": "1343", 
+            "uri": "http://dbpedia.org/ontology/AmericanFootballPlayer"
+        }, 
+        {
+            "name": "architecte", 
+            "size": "813", 
+            "uri": "http://dbpedia.org/ontology/Architect"
+        }, 
+        {
+            "name": "structure architecturale", 
+            "size": "28461", 
+            "uri": "http://dbpedia.org/ontology/ArchitecturalStructure"
+        }, 
+        {
+            "name": "artiste", 
+            "size": "38797", 
+            "uri": "http://dbpedia.org/ontology/Artist"
+        }, 
+        {
+            "name": "\u0153uvre d'art", 
+            "size": "2228", 
+            "uri": "http://dbpedia.org/ontology/Artwork"
+        }, 
+        {
+            "name": "athl\u00e8te", 
+            "size": "74006", 
+            "uri": "http://dbpedia.org/ontology/Athlete"
+        }, 
+        {
+            "name": "automobile", 
+            "size": "2749", 
+            "uri": "http://dbpedia.org/ontology/Automobile"
+        }, 
+        {
+            "name": "groupe de musique", 
+            "size": "6078", 
+            "uri": "http://dbpedia.org/ontology/Band"
+        }, 
+        {
+            "name": "joueur de baseball", 
+            "size": "2909", 
+            "uri": "http://dbpedia.org/ontology/BaseballPlayer"
+        }, 
+        {
+            "name": "joueur de basketball", 
+            "size": "4939", 
+            "uri": "http://dbpedia.org/ontology/BasketballPlayer"
+        }, 
+        {
+            "name": "jeu de soci\u00e9t\u00e9", 
+            "size": "145", 
+            "uri": "http://dbpedia.org/ontology/BoardGame"
+        }, 
+        {
+            "name": "\u00e9tendue d'eau", 
+            "size": "9953", 
+            "uri": "http://dbpedia.org/ontology/BodyOfWater"
+        }, 
+        {
+            "name": "livre", 
+            "size": "7646", 
+            "uri": "http://dbpedia.org/ontology/Book"
+        }, 
+        {
+            "name": "boxeur", 
+            "size": "1872", 
+            "uri": "http://dbpedia.org/ontology/Boxer"
+        }, 
+        {
+            "name": "b\u00e2timent", 
+            "size": "14901", 
+            "uri": "http://dbpedia.org/ontology/Building"
+        }, 
+        {
+            "name": "appareil photographique", 
+            "size": "124", 
+            "uri": "http://dbpedia.org/ontology/Camera"
+        }, 
+        {
+            "name": "cardinal", 
+            "size": "2993", 
+            "uri": "http://dbpedia.org/ontology/Cardinal"
+        }, 
+        {
+            "name": "casino", 
+            "size": "59", 
+            "uri": "http://dbpedia.org/ontology/Casino"
+        }, 
+        {
+            "name": "ch\u00e2teau", 
+            "size": "4919", 
+            "uri": "http://dbpedia.org/ontology/Castle"
+        }, 
+        {
+            "name": "\u00e9v\u00eaque chr\u00e9tien", 
+            "size": "1328", 
+            "uri": "http://dbpedia.org/ontology/ChristianBishop"
+        }, 
+        {
+            "name": "\u00e9glise", 
+            "size": "2409", 
+            "uri": "http://dbpedia.org/ontology/Church"
+        }, 
+        {
+            "name": "cit\u00e9", 
+            "size": "39335", 
+            "uri": "http://dbpedia.org/ontology/City"
+        }, 
+        {
+            "name": "eccl\u00e9siastique", 
+            "size": "5143", 
+            "uri": "http://dbpedia.org/ontology/Cleric"
+        }, 
+        {
+            "name": "bande dessin\u00e9e", 
+            "size": "3881", 
+            "uri": "http://dbpedia.org/ontology/Comics"
+        }, 
+        {
+            "name": "entreprise", 
+            "size": "11236", 
+            "uri": "http://dbpedia.org/ontology/Company"
+        }, 
+        {
+            "name": "continent", 
+            "size": "13", 
+            "uri": "http://dbpedia.org/ontology/Continent"
+        }, 
+        {
+            "name": "pays", 
+            "size": "421", 
+            "uri": "http://dbpedia.org/ontology/Country"
+        }, 
+        {
+            "name": "cycliste", 
+            "size": "6373", 
+            "uri": "http://dbpedia.org/ontology/Cyclist"
+        }, 
+        {
+            "name": "appareil", 
+            "size": "141", 
+            "uri": "http://dbpedia.org/ontology/Device"
+        }, 
+        {
+            "name": "appareil photo num\u00e9rique", 
+            "size": "124", 
+            "uri": "http://dbpedia.org/ontology/DigitalCamera"
+        }, 
+        {
+            "name": "\u00e9tablissement d'enseignement", 
+            "size": "4071", 
+            "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+        }, 
+        {
+            "name": "\u00e9v\u00e8nement", 
+            "size": "42675", 
+            "uri": "http://dbpedia.org/ontology/Event"
+        }, 
+        {
+            "name": "usine", 
+            "size": "88", 
+            "uri": "http://dbpedia.org/ontology/Factory"
+        }, 
+        {
+            "name": "personnage de fiction", 
+            "size": "4445", 
+            "uri": "http://dbpedia.org/ontology/FictionalCharacter"
+        }, 
+        {
+            "name": "film", 
+            "size": "17589", 
+            "uri": "http://dbpedia.org/ontology/Film"
+        }, 
+        {
+            "name": "jeu", 
+            "size": "509", 
+            "uri": "http://dbpedia.org/ontology/Game"
+        }, 
+        {
+            "name": "golfeur", 
+            "size": "225", 
+            "uri": "http://dbpedia.org/ontology/GolfPlayer"
+        }, 
+        {
+            "name": "grand prix", 
+            "size": "1017", 
+            "uri": "http://dbpedia.org/ontology/GrandPrix"
+        }, 
+        {
+            "name": "joueur de football am\u00e9ricain gridiron", 
+            "size": "1343", 
+            "uri": "http://dbpedia.org/ontology/GridironFootballPlayer"
+        }, 
+        {
+            "name": "Guitare", 
+            "size": "17", 
+            "uri": "http://dbpedia.org/ontology/Guitar"
+        }, 
+        {
+            "name": "joueur de handball", 
+            "size": "630", 
+            "uri": "http://dbpedia.org/ontology/HandballPlayer"
+        }, 
+        {
+            "name": "joueur de hockey sur glace", 
+            "size": "7618", 
+            "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+        }, 
+        {
+            "name": "infrastructure", 
+            "size": "13560", 
+            "uri": "http://dbpedia.org/ontology/Infrastructure"
+        }, 
+        {
+            "name": "instrument de musique", 
+            "size": "17", 
+            "uri": "http://dbpedia.org/ontology/Instrument"
+        }, 
+        {
+            "name": "\u00eele", 
+            "size": "3449", 
+            "uri": "http://dbpedia.org/ontology/Island"
+        }, 
+        {
+            "name": "journaliste", 
+            "size": "412", 
+            "uri": "http://dbpedia.org/ontology/Journalist"
+        }, 
+        {
+            "name": "lac", 
+            "size": "2457", 
+            "uri": "http://dbpedia.org/ontology/Lake"
+        }, 
+        {
+            "name": "langage", 
+            "size": "2472", 
+            "uri": "http://dbpedia.org/ontology/Language"
+        }, 
+        {
+            "name": "moyen de transport", 
+            "size": "2749", 
+            "uri": "http://dbpedia.org/ontology/MeanOfTransportation"
+        }, 
+        {
+            "name": "conflit militaire", 
+            "size": "5169", 
+            "uri": "http://dbpedia.org/ontology/MilitaryConflict"
+        }, 
+        {
+            "name": "militaire", 
+            "size": "6369", 
+            "uri": "http://dbpedia.org/ontology/MilitaryPerson"
+        }, 
+        {
+            "name": "mannequin", 
+            "size": "324", 
+            "uri": "http://dbpedia.org/ontology/Model"
+        }, 
+        {
+            "name": "monast\u00e8re", 
+            "size": "255", 
+            "uri": "http://dbpedia.org/ontology/Monastery"
+        }, 
+        {
+            "name": "monument", 
+            "size": "12212", 
+            "uri": "http://dbpedia.org/ontology/Monument"
+        }, 
+        {
+            "name": "mosqu\u00e9e", 
+            "size": "158", 
+            "uri": "http://dbpedia.org/ontology/Mosque"
+        }, 
+        {
+            "name": "montagne", 
+            "size": "4821", 
+            "uri": "http://dbpedia.org/ontology/Mountain"
+        }, 
+        {
+            "name": "mus\u00e9e", 
+            "size": "2393", 
+            "uri": "http://dbpedia.org/ontology/Museum"
+        }, 
+        {
+            "name": "festival de musique", 
+            "size": "400", 
+            "uri": "http://dbpedia.org/ontology/MusicFestival"
+        }, 
+        {
+            "name": "musicien", 
+            "size": "13213", 
+            "uri": "http://dbpedia.org/ontology/MusicalArtist"
+        }, 
+        {
+            "name": "\u0153uvre musicale", 
+            "size": "28747", 
+            "uri": "http://dbpedia.org/ontology/MusicalWork"
+        }, 
+        {
+            "name": "lieu naturel", 
+            "size": "15661", 
+            "uri": "http://dbpedia.org/ontology/NaturalPlace"
+        }, 
+        {
+            "name": "journal", 
+            "size": "3151", 
+            "uri": "http://dbpedia.org/ontology/Newspaper"
+        }, 
+        {
+            "name": "titulaire", 
+            "size": "5", 
+            "uri": "http://dbpedia.org/ontology/OfficeHolder"
+        }, 
+        {
+            "name": "r\u00e9sultat de Jeux Olympiques", 
+            "size": "3938", 
+            "uri": "http://dbpedia.org/ontology/OlympicResult"
+        }, 
+        {
+            "name": "Jeux Olympiques", 
+            "size": "56", 
+            "uri": "http://dbpedia.org/ontology/Olympics"
+        }, 
+        {
+            "name": "op\u00e9ra", 
+            "size": "346", 
+            "uri": "http://dbpedia.org/ontology/Opera"
+        }, 
+        {
+            "name": "organisation", 
+            "size": "46218", 
+            "uri": "http://dbpedia.org/ontology/Organisation"
+        }, 
+        {
+            "name": "peintre", 
+            "size": "2077", 
+            "uri": "http://dbpedia.org/ontology/Painter"
+        }, 
+        {
+            "name": "peinture", 
+            "size": "1438", 
+            "uri": "http://dbpedia.org/ontology/Painting"
+        }, 
+        {
+            "name": "publication p\u00e9riodique", 
+            "size": "3151", 
+            "uri": "http://dbpedia.org/ontology/PeriodicalLiterature"
+        }, 
+        {
+            "name": "personne", 
+            "size": "183702", 
+            "uri": "http://dbpedia.org/ontology/Person"
+        }, 
+        {
+            "name": "fonction de personne", 
+            "size": "28645", 
+            "uri": "http://dbpedia.org/ontology/PersonFunction"
+        }, 
+        {
+            "name": "philosophe", 
+            "size": "474", 
+            "uri": "http://dbpedia.org/ontology/Philosopher"
+        }, 
+        {
+            "name": "lieu", 
+            "size": "254581", 
+            "uri": "http://dbpedia.org/ontology/Place"
+        }, 
+        {
+            "name": "parti politique", 
+            "size": "1322", 
+            "uri": "http://dbpedia.org/ontology/PoliticalParty"
+        }, 
+        {
+            "name": "politicien", 
+            "size": "19265", 
+            "uri": "http://dbpedia.org/ontology/Politician"
+        }, 
+        {
+            "name": "pape", 
+            "size": "263", 
+            "uri": "http://dbpedia.org/ontology/Pope"
+        }, 
+        {
+            "name": "lieu habit\u00e9", 
+            "size": "128808", 
+            "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+        }, 
+        {
+            "name": "pr\u00eatre", 
+            "size": "13", 
+            "uri": "http://dbpedia.org/ontology/Priest"
+        }, 
+        {
+            "name": "langage de programmation", 
+            "size": "151", 
+            "uri": "http://dbpedia.org/ontology/ProgrammingLanguage"
+        }, 
+        {
+            "name": "aire prot\u00e9g\u00e9e", 
+            "size": "6607", 
+            "uri": "http://dbpedia.org/ontology/ProtectedArea"
+        }, 
+        {
+            "name": "circuit de course", 
+            "size": "262", 
+            "uri": "http://dbpedia.org/ontology/RaceTrack"
+        }, 
+        {
+            "name": "gare", 
+            "size": "6307", 
+            "uri": "http://dbpedia.org/ontology/RailwayStation"
+        }, 
+        {
+            "name": "arbitre", 
+            "size": "122", 
+            "uri": "http://dbpedia.org/ontology/Referee"
+        }, 
+        {
+            "name": "\u00e9difice religieux", 
+            "size": "7442", 
+            "uri": "http://dbpedia.org/ontology/ReligiousBuilding"
+        }, 
+        {
+            "name": "rivi\u00e8re", 
+            "size": "7496", 
+            "uri": "http://dbpedia.org/ontology/River"
+        }, 
+        {
+            "name": "route", 
+            "size": "5520", 
+            "uri": "http://dbpedia.org/ontology/Road"
+        }, 
+        {
+            "name": "club de rugby", 
+            "size": "662", 
+            "uri": "http://dbpedia.org/ontology/RugbyClub"
+        }, 
+        {
+            "name": "joueur de rugby", 
+            "size": "3527", 
+            "uri": "http://dbpedia.org/ontology/RugbyPlayer"
+        }, 
+        {
+            "name": "\u00e9cole", 
+            "size": "617", 
+            "uri": "http://dbpedia.org/ontology/School"
+        }, 
+        {
+            "name": "scientifique", 
+            "size": "2553", 
+            "uri": "http://dbpedia.org/ontology/Scientist"
+        }, 
+        {
+            "name": "sculpture", 
+            "size": "259", 
+            "uri": "http://dbpedia.org/ontology/Sculpture"
+        }, 
+        {
+            "name": "municipalit\u00e9", 
+            "size": "119284", 
+            "uri": "http://dbpedia.org/ontology/Settlement"
+        }, 
+        {
+            "name": "club de football", 
+            "size": "1892", 
+            "uri": "http://dbpedia.org/ontology/SoccerClub"
+        }, 
+        {
+            "name": "joueur de football", 
+            "size": "24632", 
+            "uri": "http://dbpedia.org/ontology/SoccerPlayer"
+        }, 
+        {
+            "name": "logiciel", 
+            "size": "10719", 
+            "uri": "http://dbpedia.org/ontology/Software"
+        }, 
+        {
+            "name": "sport", 
+            "size": "145", 
+            "uri": "http://dbpedia.org/ontology/Sport"
+        }, 
+        {
+            "name": "r\u00e9sultats d'une comp\u00e9tition sportive", 
+            "size": "16984", 
+            "uri": "http://dbpedia.org/ontology/SportCompetitionResult"
+        }, 
+        {
+            "name": "installation sportive", 
+            "size": "3188", 
+            "uri": "http://dbpedia.org/ontology/SportFacility"
+        }, 
+        {
+            "name": "\u00e9v\u00e8nement sportif", 
+            "size": "32597", 
+            "uri": "http://dbpedia.org/ontology/SportsEvent"
+        }, 
+        {
+            "name": "\u00e9quipe sportive", 
+            "size": "21595", 
+            "uri": "http://dbpedia.org/ontology/SportsTeam"
+        }, 
+        {
+            "name": "stade", 
+            "size": "2926", 
+            "uri": "http://dbpedia.org/ontology/Stadium"
+        }, 
+        {
+            "name": "station", 
+            "size": "6307", 
+            "uri": "http://dbpedia.org/ontology/Station"
+        }, 
+        {
+            "name": "ruisseau", 
+            "size": "7496", 
+            "uri": "http://dbpedia.org/ontology/Stream"
+        }, 
+        {
+            "name": "nageur", 
+            "size": "872", 
+            "uri": "http://dbpedia.org/ontology/Swimmer"
+        }, 
+        {
+            "name": "synagogue", 
+            "size": "59", 
+            "uri": "http://dbpedia.org/ontology/Synagogue"
+        }, 
+        {
+            "name": "\u00e9pisode t\u00e9l\u00e9vis\u00e9", 
+            "size": "1048", 
+            "uri": "http://dbpedia.org/ontology/TelevisionEpisode"
+        }, 
+        {
+            "name": "\u00e9mission de t\u00e9l\u00e9vision", 
+            "size": "6904", 
+            "uri": "http://dbpedia.org/ontology/TelevisionShow"
+        }, 
+        {
+            "name": "cha\u00eenes de t\u00e9l\u00e9vision", 
+            "size": "1855", 
+            "uri": "http://dbpedia.org/ontology/TelevisionStation"
+        }, 
+        {
+            "name": "joueur de tennis", 
+            "size": "2569", 
+            "uri": "http://dbpedia.org/ontology/TennisPlayer"
+        }, 
+        {
+            "name": "p\u00e9riode temporelle", 
+            "size": "163807", 
+            "uri": "http://dbpedia.org/ontology/TimePeriod"
+        }, 
+        {
+            "name": "universit\u00e9", 
+            "size": "3454", 
+            "uri": "http://dbpedia.org/ontology/University"
+        }, 
+        {
+            "name": "jeux vid\u00e9o", 
+            "size": "7926", 
+            "uri": "http://dbpedia.org/ontology/VideoGame"
+        }, 
+        {
+            "name": "volcan", 
+            "size": "887", 
+            "uri": "http://dbpedia.org/ontology/Volcano"
+        }, 
+        {
+            "name": "\u0153uvre", 
+            "size": "83257", 
+            "uri": "http://dbpedia.org/ontology/Work"
+        }, 
+        {
+            "name": "lutteur", 
+            "size": "401", 
+            "uri": "http://dbpedia.org/ontology/Wrestler"
+        }, 
+        {
+            "name": "\u00e9crivain", 
+            "size": "6500", 
+            "uri": "http://dbpedia.org/ontology/Writer"
+        }, 
+        {
+            "name": "\u0153uvre \u00e9crite", 
+            "size": "14678", 
+            "uri": "http://dbpedia.org/ontology/WrittenWork"
+        }
+    ], 
+    "name": "Class-Resources"
+}
