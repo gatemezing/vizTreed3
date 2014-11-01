@@ -41,10 +41,10 @@ Example: dbpedia fr instances at a glance
 
 Why might you need viz-tree-d3 ?
 =========
-Check you converted all your raw/legacy dataset
-Quick view of instances in a given endpoint for further analysis
-screen scraping of RDF datasets for instance matching
-Dataset instance monitoring and quality checking
+- Check you converted all your raw/legacy dataset
+- Quick view of instances in a given endpoint for further analysis
+- screen scraping of RDF datasets for instance matching
+- Dataset instance monitoring and quality checking
 
 TODO
 =========
