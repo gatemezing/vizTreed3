@@ -23,7 +23,7 @@ How it works
 	copy/Y (mv) classesd3.json {HOME_INSTALL}
 	cd {HOME_INSTALL}
 	python -m SimpleHTTPServer or python -m http.server  (3x)   
-	open your browser at localhost:8000 or 127.0.0.0:80
+	open your browser at localhost:8000 or 127.0.0.0:8000
 
 
 Visualization based on d3 Treemap
